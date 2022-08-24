@@ -47,3 +47,7 @@
 .header__nav__btn.menu__btn {
     display: inline-block;
 }
+
+.header__middle .header__nav__btn{
+   margin-right: 2rem;
+}

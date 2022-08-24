@@ -12,5 +12,5 @@
 <h3>:link:https://afonsoart.github.io/Tesla-Landing-Page-Clone/</h3>
 
 <h2><strong>Taught by :</strong></h2>
-<p>:white_circle: <a href="https://github.com/guilhermerodz">Guilherme Rodz</a></p>
-<p>:white_circle: <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">Rocketseat's YT channel</a></p>
+<p>:white_circle: <a href="https://www.youtube.com/c/CulesCoding18">Cules Coding</a></p>
+

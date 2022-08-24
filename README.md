@@ -7,7 +7,7 @@
 </p>
 
 <h2><strong>Technologies :</strong></h2>
-<p>:heavy_check_mark: HTML, SCSS, JS</p>
+<p>:heavy_check_mark: HTML, CSS, JS</p>
 <h2><strong>Check out the page</strong></h2>
 <h3>:link: https://afonsoart.github.io/Pinterest-Clone/</h3>
 
